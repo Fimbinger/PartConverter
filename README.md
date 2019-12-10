@@ -1,7 +1,7 @@
 # PartConverter
 
 Usage, examples and more:
-www.software.fimbinger.at
+http://software.fimbinger.at
 
 Convert CAD cylinder assembly models (exported from AutoDesk(R) Inventor(R) as SAT-File) for the use in ThreeParticle/CAE by Becker3D.
 
